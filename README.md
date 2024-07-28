@@ -12,9 +12,9 @@ I modified this original design: https://www.thingiverse.com/thing:2034018
 I made pretty minor edits:
 * Cut off the base of the finger so it was flush with the ring, so it could be printed vertically with no supports
 * Cut off the very top of the finger by a layer or two
-* New sized ring with a small slit in the middle
+* Resized ring with a small slit in the middle
 * The ring has beveled internal cones on the top and bottom which make it more comfortable and allows the insert to "snap" into
-* The inside base of the finger is concaved, there is a slight cone cut above the insert at the inside base of the finger to avoid needing support
+* The inside base of the finger is concaved, there is a slight cone cut above the ring at the inside base of the finger to avoid needing support
 * The insert is a pretty basic ring with slit, and cone shapes on the top and bottom to snap into the larger ring.
 * The insert also has internal cones cut out for comfort, and an interal wedge cut at the slit so it is more comfortable.
 * Printed with 3 walls and no infill so it remains flexible and a little squishy
