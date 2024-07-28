@@ -1,16 +1,12 @@
 # AI-6th-Finger-Ring
 Wear a 6th finger to make surveillance footage look like it's AI generated. From this meme:
 
-meme       |  reality
-:-------------------------:|:-------------------------:
-![fingermeme](https://i.imgur.com/DYUaAV9.jpeg)        |  ![finger rings picture](fingers.jpg)
-
-
+![fingermeme](https://i.imgur.com/DYUaAV9.jpeg)
 
 There is an insert that can be used for people with small fingers, otherwise just pull it off and discard it.
 Printed with SpiderMaker SpiderFlex TPE (Matte TPU) 75A-80A (Fair Skin): https://www.amazon.com/dp/B0BY7ZHDWM
 
-
+![finger rings picture](fingers.jpg)
 
 I modified this original design: https://www.thingiverse.com/thing:2034018  
 I made pretty minor edits:
@@ -23,5 +19,5 @@ I made pretty minor edits:
 * The insert also has internal cones cut out for comfort, and an interal wedge cut at the slit so it is more comfortable.
 * Printed with 3 walls and no infill so it remains flexible and a little squishy
 
-I printed the top few dozen layers with a 0.12 layer height which helps with the nail detail and helps the finger come to a ponit.
+I printed the top few dozen layers with a 0.12 layer height which helps with the nail detail and helps the finger come to a ponit. The seam is on the inside of the finger which should hide it a bit. If I had more time I'd work on reducing the appearance of the seam. I briefly played with scarf seams which didn't look good for this model and filament.   
 This "fair skin" filament color is pretty white. You can paint it to better match your skin tone or nails
