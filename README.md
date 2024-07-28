@@ -1,12 +1,16 @@
 # AI-6th-Finger-Ring
 Wear a 6th finger to make surveillance footage look like it's AI generated. From this meme:
 
-![fingermeme](https://i.imgur.com/DYUaAV9.jpeg)
+![fingermeme](https://i.imgur.com/DYUaAV9.jpeg)        |  ![finger rings picture](fingers.jpg)
+:-------------------------:|:-------------------------:
+
+
+
 
 There is an insert that can be used for people with small fingers, otherwise just pull it off and discard it.
 Printed with SpiderMaker SpiderFlex TPE (Matte TPU) 75A-80A (Fair Skin): https://www.amazon.com/dp/B0BY7ZHDWM
 
-![finger rings picture](fingers.jpg)
+
 
 I modified this original design: https://www.thingiverse.com/thing:2034018  
 I made pretty minor edits:
