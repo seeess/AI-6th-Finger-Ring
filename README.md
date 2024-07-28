@@ -1,9 +1,9 @@
 # AI-6th-Finger-Ring
 Wear a 6th finger to make surveillance footage look like it's AI generated. From this meme:
 
-![fingermeme](https://i.imgur.com/DYUaAV9.jpeg)        |  ![finger rings picture](fingers.jpg)
+meme       |  reality
 :-------------------------:|:-------------------------:
-
+![fingermeme](https://i.imgur.com/DYUaAV9.jpeg)        |  ![finger rings picture](fingers.jpg)
 
 
 
