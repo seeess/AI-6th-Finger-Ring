@@ -4,7 +4,7 @@ Wear a 6th finger to make surveillance footage look like it's AI generated. From
 ![fingermeme](https://i.imgur.com/DYUaAV9.jpeg)
 
 There is an insert that can be used for people with small fingers, otherwise just pull it off and discard it.
-Printed with SpiderMaker SpiderFlex TPE (Matte TPU) 75A-80A (Fair Skin): https://www.amazon.com/dp/B0BY7ZHDWM
+Printed with SpiderMaker SpiderFlex TPE (Matte TPU) 75A-80A (Fair Skin): https://www.amazon.com/dp/B0BY7ZHDWM or https://www.3dspidermaker.com/products/spiderflex-tpe-matte-finish-fair-skin
 
 ![finger rings picture](fingers.jpg)
 
